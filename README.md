@@ -1,1 +1,1 @@
-# discord-quest-console
+# Discord Quest Completer (Console)
