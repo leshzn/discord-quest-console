@@ -36,8 +36,8 @@ No installation. No dependencies. No background services.
 
 ## Requirements
 
-- Discord **Desktop Application
-- At least one **active Discord Quest
+- Discord Desktop Application
+- At least one active Discord Quest
 - Access to Discord Developer Tools
 - Basic knowledge of using the console
 
@@ -47,27 +47,14 @@ No installation. No dependencies. No background services.
 
 ## How to Use
 
-1. Open **Discord Desktop**
+1. Open Discord Desktop
 2. Press `Ctrl + Shift + I` to open Developer Tools
-3. Navigate to the **Console** tab
+3. Navigate to the Console tab
 4. Copy the script from this repository
 5. Paste it into the console
-6. Press **Enter** and wait for completion
+6. Press Enter and wait for completion
 
 Progress updates will appear directly in the console.
-
----
-
-## File Location
-
-```
-
-/script/quests.js
-
-```
-
----
-
 
 ## Final Notes
 
